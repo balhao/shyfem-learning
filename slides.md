@@ -10,6 +10,7 @@ class: text-center
 drawings:
   persist: false
 transition: slide-left
+colorSchema: light
 mdc: true
 duration: 45min
 ---
